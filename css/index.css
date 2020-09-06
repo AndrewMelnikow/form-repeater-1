@@ -1,0 +1,31 @@
+.repeater_element {
+    border: 1px dashed #D9DDFF;
+    padding: 10px 10px 15px 10px;
+    cursor: move;
+    background-color: transparent;
+    margin-bottom: 10px;
+}
+
+.repeater_element .badge {
+    text-transform: capitalize;
+    margin: 0px !important;
+} 
+
+.repeater_element span {
+    text-transform: capitalize;
+    margin: 10px;
+} 
+
+.repeater_element label {
+    text-transform: capitalize;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.repeater_element .form-group {
+    margin-bottom: 5px;
+}
+
+.repeater_element .form-check-inline {
+    margin: 10px;
+}
